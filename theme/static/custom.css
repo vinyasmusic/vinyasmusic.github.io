@@ -1,0 +1,43 @@
+article > header > h2 {
+    font-weight: bold;
+    font-size: 1.4em;
+}
+
+article > header > h1 {
+    font-weight: bold;
+    font-size: 1.4em;
+}
+
+article p {
+    text-align: justify;
+}
+
+nav ul.list li a:hover {
+    color: #009F00;
+}
+
+a {
+    color: #ff3333;
+}
+
+a:hover {
+    color: #009F00;
+}
+
+a.btn {
+    background-color: #ff3333;
+}
+
+a.btn:hover {
+    background-color: #009F00;
+    color: white;
+}
+
+.tag-cloud a {
+    background-color: #ff3333;
+}
+
+.tag-cloud a:hover {
+    background-color: #009F00;
+    color: white;
+}
